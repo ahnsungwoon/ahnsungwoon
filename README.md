@@ -2,6 +2,7 @@
 
 ### I am...
 - joint Senior Managing Director of Sojak Studio
+- CCO of Sojak Studio
 - Planning Team Leader of Sojak Studio
 
 ### I'm using...
