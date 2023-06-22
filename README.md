@@ -1,5 +1,5 @@
 # Welcome to My profile!!
-
+😄
 ### I am...
 - joint Senior Managing Director of Sojak Studio
 - CCO of Sojak Studio
