@@ -7,12 +7,14 @@
 
 ### I'm using...
 programming language
-- Discord.js
+- Javascript
 - python
 - Html & CSS
 
 program
 - Discord
+- Visual Studio Code
+- Github desktop
 - Windows 10
 
 HARDWARE
