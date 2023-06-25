@@ -26,4 +26,5 @@ HARDWARE
 - Samsung Galaxy Tab S7 FE <img src="https://logos-download.com/wp-content/uploads/2016/02/Samsung_Logo_2005.png" width="5%">
 - Samsung Galaxy Quantum2 <img src="https://logos-download.com/wp-content/uploads/2016/02/Samsung_Logo_2005.png" width="5%">
 
-![ahnsungwoon's github stats](https://github-readme-stats.vercel.app/api?username=ahnsungwoon&show-icons=true)
+![ahnsungwoon's github stats](https://github-readme-stats.vercel.app/api?username=ahnsungwoon&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
