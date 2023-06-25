@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6478FF&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Antonio's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahnsungwoon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 # Welcome to My profile!!
 😄
 ### I am...😎
@@ -23,3 +25,5 @@ HARDWARE
 - Samsung BOOK ion <img src="https://logos-download.com/wp-content/uploads/2016/02/Samsung_Logo_2005.png" width="5%">
 - Samsung Galaxy Tab S7 FE <img src="https://logos-download.com/wp-content/uploads/2016/02/Samsung_Logo_2005.png" width="5%">
 - Samsung Galaxy Quantum2 <img src="https://logos-download.com/wp-content/uploads/2016/02/Samsung_Logo_2005.png" width="5%">
+
+![ahnsungwoon's github stats](https://github-readme-stats.vercel.app/api?username=ahnsungwoon&show-icons=true)
