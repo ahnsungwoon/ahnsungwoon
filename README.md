@@ -6,7 +6,7 @@
 😄
 ### I am...😎
 - joint Senior Managing Director of Sojak Studio <img src="https://cdn.discordapp.com/attachments/971002895883464735/1105749283933794335/-removebg-preview.png" width="5%">
-- CCO of Sojak Studio <img src="https://cdn.discordapp.com/attachments/971002895883464735/1105749283933794335/-removebg-preview.png" width="5%">
+- Chief Administrative Officer of Sojak Studio <img src="https://cdn.discordapp.com/attachments/971002895883464735/1105749283933794335/-removebg-preview.png" width="5%">
 - Planning Team Leader of Sojak Studio <img src="https://cdn.discordapp.com/attachments/971002895883464735/1105749283933794335/-removebg-preview.png" width="5%">
 
 ### I'm using...📚
