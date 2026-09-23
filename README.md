@@ -1,30 +1,133 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6478FF&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Antonio's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=240&section=header&text=Antonio&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Vibe%20Coding%20Developer%20%C2%B7%20CEO&descAlignY=58&descSize=18)
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahnsungwoon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<div align="center">
 
-# Welcome to My profile!!
-😄
-### I am...😎
-- Chairman of Sojak Studio <img src="https://cdn.discordapp.com/attachments/971002895883464735/1105749283933794335/-removebg-preview.png" width="5%">
-- Chief Executive Officer of Sojak Studio <img src="https://cdn.discordapp.com/attachments/971002895883464735/1105749283933794335/-removebg-preview.png" width="5%">
-- Planning Team Leader of Sojak Studio <img src="https://cdn.discordapp.com/attachments/971002895883464735/1105749283933794335/-removebg-preview.png" width="5%">
+<img src="./assets/Sojaklogo1.png" alt="Sojak Studio" width="150">
 
-### I'm using...📚
-programming language
-- Javascript <img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" width="2%">
-- python <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_wordmark.png" width="5%">
-- Html & CSS <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_logo.png" width="2%">
+<br>
 
-program
-- Discord <img src="https://logos-download.com/wp-content/uploads/2021/01/Discord_Logo-1.png" width="5%">
-- Visual Studio Code <img src="https://pluspng.com/img-png/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" width="2%">
-- Github desktop <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo_wordmark.png" width="5%">
-- Windows 10 <img src="https://logos-download.com/wp-content/uploads/2016/10/Windows_10_logo.png" width="5%">
+### Vibe Coding Developer · CEO
 
-HARDWARE
-- Samsung BOOK ion <img src="https://logos-download.com/wp-content/uploads/2016/02/Samsung_Logo_2005.png" width="5%">
-- Samsung Galaxy Tab S10+ <img src="https://logos-download.com/wp-content/uploads/2016/02/Samsung_Logo_2005.png" width="5%">
-- Samsung Galaxy S24+ <img src="https://logos-download.com/wp-content/uploads/2016/02/Samsung_Logo_2005.png" width="5%">
+**Turning ideas into products.**
 
-![ahnsungwoon's github stats](https://github-readme-stats.vercel.app/api?username=ahnsungwoon&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnsungwoon&layout=compact&theme=tokyonight)
+<br>
+
+<a href="https://sojak.io">
+  <img src="https://img.shields.io/badge/sojak.io-111827?style=flat-square&logo=googlechrome&logoColor=white">
+</a>
+<a href="mailto:antonio@sojak.io">
+  <img src="https://img.shields.io/badge/antonio@sojak.io-111827?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+## About
+
+Hi, I'm **Antonio**.
+
+I'm a **Vibe Coding Developer** focused on turning ideas into real products through rapid prototyping, experimentation, and practical development.
+
+I also lead **Sojak Studio**, working across technology, operations, and product development.
+
+> **Build fast. Learn continuously. Make ideas real.**
+
+<br>
+
+## Roles
+
+**Sojak Studio**
+
+- Chief Executive Officer
+- Head of MS Management Support Office
+
+<br>
+
+## Tech
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vue,react,nodejs,docker,linux&theme=dark" />
+
+<br><br>
+
+`Vue` · `React` · `Node.js` · `Docker` · `Rocky Linux`
+
+</div>
+
+<br>
+
+## Sojak Studio
+
+<div align="center">
+
+<img src="./assets/sojak-studio-logo.png" alt="Sojak Studio" width="110">
+
+<br><br>
+
+**Technology, products, and ideas — built into reality.**
+
+<br>
+
+<a href="https://sojak.io">
+  <img src="https://img.shields.io/badge/Visit_Sojak_Studio-sojak.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+## Contact
+
+For business, collaboration, or support inquiries:
+
+<table>
+<tr>
+<td><b>Business & Support</b></td>
+<td><a href="mailto:support@sojak.io">support@sojak.io</a></td>
+</tr>
+<tr>
+<td><b>Direct Contact</b></td>
+<td><a href="mailto:antonio@sojak.io">antonio@sojak.io</a></td>
+</tr>
+<tr>
+<td><b>Website</b></td>
+<td><a href="https://sojak.io">sojak.io</a></td>
+</tr>
+</table>
+
+<br>
+
+## GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahnsungwoon&show_icons=true&hide_border=true&bg_color=00000000&title_color=818CF8&text_color=9CA3AF&icon_color=A78BFA">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnsungwoon&layout=compact&hide_border=true&bg_color=00000000&title_color=818CF8&text_color=9CA3AF">
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ahnsungwoon&style=flat-square&color=6366F1&label=PROFILE+VIEWS">
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<sub>
+Building at the intersection of ideas, technology, and execution.
+</sub>
+
+<br><br>
+
+**Antonio · Sojak Studio**
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=120&section=footer)
