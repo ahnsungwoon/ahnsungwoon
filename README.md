@@ -63,7 +63,7 @@ I also lead **Sojak Studio**, working across technology, operations, and product
 
 <div align="center">
 
-<img src="./assets/sojak-studio-logo.png" alt="Sojak Studio" width="110">
+<img src="./assets/Sojaklogo1.png" alt="Sojak Studio" width="110">
 
 <br><br>
 
