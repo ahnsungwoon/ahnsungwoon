@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/sojak-studio-logo.png" alt="Sojak Studio" width="150">
+<img src="./assets/Sojaklogo1.png" alt="Sojak Studio" width="150">
 
 <br>
 
@@ -68,7 +68,7 @@ Alongside development, I lead **Sojak Studio**, overseeing technology, operation
 
 <div align="center">
 
-<img src="./assets/sojak-studio-logo.png" alt="Sojak Studio" width="120">
+<img src="./assets/Sojaklogo1.png" alt="Sojak Studio" width="120">
 
 <br><br>
 
